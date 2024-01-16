@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I am david aka possu</h1>
-<h3 align="center">Un ti gars danzéré from La Réunion Island</h3>
+<h3 align="center">"Un ti gars danzéré" from Réunion Island</h3>
 
-- 🔭 I’m currently working on **Tiger Compiler (help!!)**
+- 🔭 I’m currently working on **Kaggle Notebooks (help!!)**
 
-- 🌱 I’m currently learning **Too much things (EPITA)**
+- 🌱 I’m currently learning **Too much things (EPITA School)**
 
-- 💬 Ask me about **Cooking :D**
+- 💬 Ask me about **Cooking anything :D**
 
 - 📫 How to reach me **david.chane-yock-nam@epita.fr**
 
