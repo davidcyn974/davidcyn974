@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am david aka possu</h1>
 <h3 align="center">"Un ti gars danzéré" from Réunion Island</h3>
 
-- 🔭 I’m currently working on **Kaggle Notebooks (help!!)**
+- 🔭 I’m currently working on **AI ... aïe**
 
 - 🌱 I’m currently learning **Too much things (EPITA School)**
 
