@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I am David aka possu</h1>
-<h3 align="center">"Un ti gars danzéré" from Réunion Island</h3>
+<h1 align="center">Hi 👋, I am David aka possu, from Réunion Island</h1>
+<h3 align="center">"Curiosity never killed the cat" </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidcyn974&label=Profile%20views&color=0e75b6&style=flat" alt="davidcyn974" /> </p>
 
